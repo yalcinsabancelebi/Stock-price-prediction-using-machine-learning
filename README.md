@@ -1,1 +1,1 @@
-# Stock-price-prediction-using-machine-learning
+# Tupras Stock-price-prediction-using-machine-learning
